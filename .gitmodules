@@ -1,0 +1,9 @@
+[submodule "dwm"]
+	path = dwm
+	url = git@github.com:koko-rin/dwm.git
+[submodule "st"]
+	path = st
+	url = git@github.com:koko-rin/st.git
+[submodule "dmenu"]
+	path = dmenu
+	url = git@github.com:koko-rin/dmenu.git
